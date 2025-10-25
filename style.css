@@ -135,7 +135,7 @@ footer a {
 /* Responsive Mobile */
 @media (max-width: 480px) {
   .glass-box {
-    width: 100%;
+    width: 95%;
     padding: 25px 20px;
   }
 
