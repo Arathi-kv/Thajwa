@@ -62,7 +62,7 @@ html, body {
 
 /* Logo */
 .glass-box .logo img {
-  width: 400px;
+  width: 600px;
   height: auto;
   background: transparent;
   margin-bottom: 15px;
@@ -71,7 +71,7 @@ html, body {
 /* Headings */
 .glass-box h1 {
   font-family: 'Sofia Sans', sans-serif;
-  font-size: 4rem;
+  font-size: 5rem;
   font-weight: 700;
   margin: 15px 0;
   color: #fff;
