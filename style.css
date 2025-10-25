@@ -119,7 +119,7 @@ footer a {
   }
 
   .glass-box .logo img {
-    width: 250px;
+    width: 380px;
   }
 
   .glass-box h1 {
@@ -135,16 +135,16 @@ footer a {
 /* Responsive Mobile */
 @media (max-width: 480px) {
   .glass-box {
-    width: 90%;
+    width: 100%;
     padding: 25px 20px;
   }
 
   .glass-box .logo img {
-    width: 180px;
+    width: 300px;
   }
 
   .glass-box h1 {
-    font-size: 1.4rem;
+    font-size: 1.9rem;
     letter-spacing: 0.3px;
     text-shadow: 
       0 1px 3px rgba(0, 0, 0, 0.3),
