@@ -62,7 +62,7 @@ html, body {
 
 /* Logo */
 .glass-box .logo img {
-  width: 350px;
+  width: 300px;
   height: auto;
   background: transparent;
   margin-bottom: 15px;
@@ -119,7 +119,7 @@ footer a {
   }
 
   .glass-box .logo img {
-    width: 380px;
+    width: 300px;
   }
 
   .glass-box h1 {
